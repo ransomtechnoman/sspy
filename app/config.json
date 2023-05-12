@@ -7,8 +7,8 @@
 		"cache": "false",
 		"open_link_in_external_browser": "false",
 		"user_agent": "",
-		"privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
-		"more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
+		"privacy_policy_url": "https://sspy.rtplinfotech.in/",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=",
 		"redirect_url": ""
 	},	
 	"menus": [
@@ -16,15 +16,15 @@
 			"name": "Home",
 			"type": "url",
 			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_home.png",
-			"url": "https://www.solodroid.net/demo/webdroid/pages/dashboard.html",
-			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/dashboard_dark.html"
+			"url": "https://sspy.rtplinfotech.in/",
+			"url_dark": "https://sspy.rtplinfotech.in/"
 		},
 		{
 			"name": "Portfolio",
 			"type": "url",
 			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_portfolio.png",
-			"url": "https://www.solodroid.net/demo/webdroid/pages/portfolio.html",
-			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/portfolio_dark.html"
+			"url": "https://sspy.rtplinfotech.in/",
+			"url_dark": "https://sspy.rtplinfotech.in/"
 		},
 		{
 			"name": "Testimonials",
@@ -37,15 +37,15 @@
 			"name": "Contact us",
 			"type": "url",
 			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_contact.png",
-			"url": "https://www.solodroid.net/demo/webdroid/pages/contact.html",
-			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/contact_dark.html"
+			"url": "https://sspy.rtplinfotech.in/",
+			"url_dark": "https://sspy.rtplinfotech.in/"
 		},
 		{
 			"name": "Privacy Policy",
-			"type": "assets",
+			"type": "url",
 			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_privacy.png",
-			"url": "privacy_policy.html",
-			"url_dark": "privacy_policy_dark.html"
+			"url": "https://sspy.rtplinfotech.in/",
+			"url_dark": "https://sspy.rtplinfotech.in/"
 		}
 	],
 	"notification": {
@@ -53,7 +53,7 @@
 		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
 	},
 	"ads": {
-		"ad_status": "1",
+		"ad_status": "0",
 		"ad_type": "admob",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-3940256099942544",
